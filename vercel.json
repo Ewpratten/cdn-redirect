@@ -4,12 +4,12 @@
     "redirects": [
         {
             "source": "/:path*" ,
-            "destination": "https://va3zza-cdn.nyc3.digitaloceanspaces.com/:path*",
+            "destination": "https://va3zza-cdn.nyc3.cdn.digitaloceanspaces.com/:path*",
             "statusCode": 301
         },
         {
             "source": "/",
-            "destination": "https://va3zza-cdn.nyc3.digitaloceanspaces.com/",
+            "destination": "https://va3zza-cdn.nyc3.cdn.digitaloceanspaces.com/",
             "statusCode": 301
         }
     ]
